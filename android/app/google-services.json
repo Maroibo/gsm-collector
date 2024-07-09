@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "763536658683",
+    "project_id": "gsm-project-d158f",
+    "storage_bucket": "gsm-project-d158f.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:763536658683:android:cfea1faf153e23cb1d205e",
+        "android_client_info": {
+          "package_name": "com.example.gsm_project"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyADszS7bJsXJJglmjIjN9ir7KZAbSglqd8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
